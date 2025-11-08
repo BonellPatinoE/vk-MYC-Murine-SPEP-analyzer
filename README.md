@@ -1,8 +1,6 @@
 # 🧬 Vk*MYC - Murine SPEP Analyzer  
 **Semi-Automated Quantification of Serum Protein Electrophoresis (SPEP) Gels**
 
-![SPEP Example](images/example_spep.png)
-
 A fully interactive Jupyter Notebook for quantitative analysis of serum protein electrophoresis (SPEP) gels — optimized for **Vk*MYC multiple myeloma models** and compatible with any densitometric lane-based analysis.  
 Developed by **Bonell Patiño-Escobar** (Wiita Lab, UCSF).
 
@@ -37,6 +35,7 @@ Users can interactively select lanes, define protein bands, and input control co
    - If multiple lanes share the same name (e.g., all “Negative”), you’ll only enter values once.  
 7. **View results** in the notebook output.  
 8. **Optionally save** the results to CSV when prompted.
+9. Save PNG with the linear regression data
 
 ---
 
